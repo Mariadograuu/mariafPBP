@@ -6,3 +6,18 @@ background:black;
     margin-bottom: 100px;
     
 }
+.chamada{
+background:rgb(241, 57, 88);
+margin-top: 80px;
+margin-bottom: 80px;
+display: flex;
+justify-content: center;
+
+}
+header{
+    color: white;
+    font-size: 30px;
+    border-bottom: solid 3px white;
+    padding: 20px;
+
+}
