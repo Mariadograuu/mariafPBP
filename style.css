@@ -21,3 +21,9 @@ header{
     padding: 20px;
 
 }
+.chamada-texto{
+   margin-ritgh: 5%; 
+   h1{
+    front-size: 35;
+   }
+}
